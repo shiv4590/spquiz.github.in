@@ -1,12 +1,12 @@
 const questions=[
      {
-        question:"Aim librarian are you ready for exam specially ajeet lucky and divyanshu?",
+        question:"if a circle have diameter 70cm then find the perimeter of circle and area of the circle?",
         
             answer :[
-            {text:"yes",correct:"true"},
-            {text:"no",correct:"true"},
-            {text:"nothing to say",correct:"true"},
-            {text:"toofan macha denge",correct:"true"}
+            {text:"8855,2258",correct:"true"},
+            {text:"7841,69321",correct:"false"},
+            {text:"7845,5874",correct:"false"},
+            {text:"7092,5869",correct:"false"}
         
         ]
             
